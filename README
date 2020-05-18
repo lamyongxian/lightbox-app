@@ -1,3 +1,4 @@
 npm install create-react-app@latest
 cd lightbox-app
+npm test
 npm start
