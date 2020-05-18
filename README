@@ -1,4 +1,7 @@
-npm install create-react-app@latest
+// Install node.js from https://nodejs.org/en/download/
+
 cd lightbox-app
+npm install
+npm install create-react-app@latest
 npm test
 npm start
